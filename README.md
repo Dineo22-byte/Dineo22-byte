@@ -3,10 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dineo+Malatsi!+;+I'm+a+software+Developer;" />
 </h1>
 # picture
-
 <img src="https://github.com/Naledindhlovu/Naledindhlovu/assets/135599769/7bcf6d05-7cca-4569-a640-4219527bb6c8" alt="bryan-rodriguez-belchibia-1-rightspeed" align="right" width="200"/>
-
-
 
 <!---
 Dineo22-byte/Dineo22-byte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
