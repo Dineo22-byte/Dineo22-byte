@@ -2,9 +2,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dineo+Malatsi!+;+I'm+a+software+Developer;" />
 </h1>
-**img**
-<img src="C:\Users\Dineo.Malatsi\Downloads\Personal" alt="coding picture"/>
-![animina](https://github.com/Dineo22-byte/Dineo22-byte/assets/141078467/184d6943-918d-4588-8f3e-91bcce64bc00)
+# picture
+
+![animina](https://github.com/Dineo22-byte/Dineo22-byte/assets/141078467/74e01611-2784-4f16-9634-267e8a6448c9)
 
 
 
