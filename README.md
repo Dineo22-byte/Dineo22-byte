@@ -4,7 +4,7 @@
 </h1>
 # picture
 
-![animina](https://github.com/Dineo22-byte/Dineo22-byte/assets/141078467/74e01611-2784-4f16-9634-267e8a6448c9)
+<img align="right" ![animina](https://github.com/Dineo22-byte/Dineo22-byte/assets/141078467/74e01611-2784-4f16-9634-267e8a6448c9)
 
 
 
