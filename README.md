@@ -4,8 +4,8 @@
 </h1>
 # picture
 
-<img align="right" ![animina](https://github.com/Dineo22-byte/Dineo22-byte/assets/141078467/74e01611-2784-4f16-9634-267e8a6448c9)
-
+ ![animina](https://github.com/Dineo22-byte/Dineo22-byte/assets/141078467/74e01611-2784-4f16-9634-267e8a6448c9)
+<img src="[https://example.com/your-header-image.png](https://github.com/Dineo22-byte/Dineo22-byte/assets/141078467/74e01611-2784-4f16-9634-267e8a6448c9)" alt="Header Image" style="float: right; margin-left: 20px; width: 300px;"/>
 
 
 <!---
